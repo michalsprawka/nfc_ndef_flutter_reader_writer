@@ -4,4 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Don`t forget to add   in android/app/src/main/AndroidManifest.xml
+Format card using TagWriter Android app
+
+When creating nfc projectDon`t forget to add    <uses-permission android:name="android.permission.NFC"/> in android/app/src/main/AndroidManifest.xml
+
